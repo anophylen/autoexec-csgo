@@ -1,5 +1,3 @@
-#It is my CSGO config.
-
 How:
 1. Download the file "autoexec.cfg"
 2. Copy it into your csgo config folder, mine is R:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg

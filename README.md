@@ -1,4 +1,4 @@
-It is my CSGO config.
+#It is my CSGO config.
 
 How:
 1. Download the file "autoexec.cfg"
